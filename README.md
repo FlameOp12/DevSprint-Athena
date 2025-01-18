@@ -54,3 +54,6 @@ In another terminal, navigate to frontend folder. Run these commands:
 https://docs.google.com/spreadsheets/d/1oSid63yOUo5arZg5u8zA8eerx2UU3xR3KWxYPrrBE5I/edit?usp=sharing
 https://docs.google.com/spreadsheets/d/1loGQ_HK_peXlTTdj5KJUX3PmQdUNn-KFLZHjIxgsDhI/edit?usp=sharing
 
+### SETUP VIDEO:https://drive.google.com/file/d/1gogB20kYz0z3avnUZjDiy1kGYVH8unU5/view?usp=sharing
+### DEMONSTRATION VIDEO:https://drive.google.com/file/d/1SZmBKzaNtT4ZkhxcosFtTv9un23MVsd0/view?usp=sharing
+
