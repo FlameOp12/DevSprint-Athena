@@ -25,7 +25,7 @@ In another terminal, navigate to frontend folder. Run these commands:
 1) cd frontend
 2) flutter pub get
 
-### Step 4: 
+ 
 Open the code in VS code editor. 
 Open /frontend/lib/main.dart file. 
 Click on the Run button above then Run without Debugging.
@@ -36,7 +36,7 @@ The App will open now.
 ### Step 1: Clone the Repository
 Clone the project repository to your local machine.
 
-```bash
+
 git clone <repository_url>
 cd DevSprint-Athena
 
