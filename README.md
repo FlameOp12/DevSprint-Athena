@@ -21,9 +21,7 @@ Install Flutter On Linux Ubuntu(Recommended). Run these commands:
 6) install flutter and dart extension
 refer flutter intsallion youtube video link: https://youtu.be/32uMbzEt49s?si=uV2njZHTZuvrhVO1
 
-In another terminal, navigate to frontend folder. Run these commands:
-1) cd frontend
-2) flutter pub get
+
 
  
 Open the code in VS code editor. 
@@ -45,6 +43,11 @@ Python shall be installed. Run these commands:
 1) cd backend
 2) pip install flask gspread oauth2client flask-cors
 3) python app.py
+
+### Step 3: Frontend
+In another terminal, navigate to frontend folder. Run these commands:
+1) cd frontend
+2) flutter pub get
 
 ### track backend changes from below google sheets used:
 https://docs.google.com/spreadsheets/d/1oSid63yOUo5arZg5u8zA8eerx2UU3xR3KWxYPrrBE5I/edit?usp=sharing
