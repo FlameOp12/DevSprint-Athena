@@ -24,10 +24,7 @@ refer flutter intsallion youtube video link: https://youtu.be/32uMbzEt49s?si=uV2
 
 
  
-Open the code in VS code editor. 
-Open /frontend/lib/main.dart file. 
-Click on the Run button above then Run without Debugging.
-The App will open now.
+
 ## Installation
 (refer to requirements.txt for any mismatches in versions)
 
@@ -48,6 +45,10 @@ Python shall be installed. Run these commands:
 In another terminal, navigate to frontend folder. Run these commands:
 1) cd frontend
 2) flutter pub get
+Open the code in VS code editor. 
+Open /frontend/lib/main.dart file. 
+Click on the Run button above then Run without Debugging.
+The App will open now.
 
 ### track backend changes from below google sheets used:
 https://docs.google.com/spreadsheets/d/1oSid63yOUo5arZg5u8zA8eerx2UU3xR3KWxYPrrBE5I/edit?usp=sharing
